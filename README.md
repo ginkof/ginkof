@@ -6,7 +6,7 @@
 
 - 📊 I am learning Data Science and Machine Learning
 
-- 🎆 I am into Data Visualization [Instagram](https://instagram.com/onefootintwoshoes?igshid=YmMyMTA2M2Y=)
+- 🎆 I am into Data Visualization [Instagram](https://www.instagram.com/gianalytics/)
 
 - 🎶 When I was younger I was a pianist
 
