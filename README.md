@@ -7,7 +7,7 @@
 
 - 📊 I am learning Data Science and Machine Learning
 
-- 🎆 I am into Data Visualization [Instagram](https://www.instagram.com/gianalytics/)
+- 🎆 I am into Data Visualization - check out my [Instagram](https://www.instagram.com/gianalytics/)
 
 - 🎶 When I was younger I was a pianist
 
