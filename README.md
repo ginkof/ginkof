@@ -20,7 +20,7 @@ I am a technically skilled, goal-oriented, independent scientist, and multidisci
 Data science gives me the challenge, communication gives me the energy.
 On one hand, I am drawn to the quantitative aspects of data science, seeking the excitement that comes from solving complex problems and uncovering insights through analysis. On the other hand, it is not enough to simply extract messages from data; it is crucial to effectively communicate them. The communicative aspect of data science fuels my passion for the field. 
 
-### You can find my project in my [Data Science Portfolio](https://github.com/ginkof/Data-Science-Portfolio)
+### You can find my projects in my [Data Science Portfolio](https://github.com/ginkof/Data-Science-Portfolio)
 ### Languages and Tools
 
 ![Python](https://img.shields.io/badge/python-EECC5B?style=for-the-badge&logo=python&logoColor=white)
