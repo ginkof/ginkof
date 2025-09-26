@@ -5,7 +5,7 @@
 
 - 👨‍🎓 I have a Ph.D. in Theoretical Physics
 
-- 📊 I am learning Data Science and Machine Learning
+- 📊 I am Data Science Consultant
 
 - 🎆 I am into Data Visualization - check out my [Instagram](https://www.instagram.com/gianalytics/)
 
